@@ -1,0 +1,22 @@
+Feature
+daily_kWh
+Price ($)
+price_kWh
+month
+day_of_week
+day_of_month
+week_of_year
+revenue_lag_1
+revenue_lag_7
+revenue_lag_14
+revenue_lag_30
+price_lag_1
+price_lag_7
+revenue_roll_7
+revenue_roll_14
+price_roll_7
+price_roll_14
+solar_lag_1
+solar_lag_7
+solar_roll_7
+daily_demand_MW
